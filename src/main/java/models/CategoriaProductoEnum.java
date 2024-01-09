@@ -1,0 +1,5 @@
+package models;
+
+public enum CategoriaProductoEnum {
+    GOLOSINAS, BEBIDAS, SNACKS_APERITIVOS, PROFILACTICOS_HIGIENE, ALIMENTOS_ENVASADOS
+}

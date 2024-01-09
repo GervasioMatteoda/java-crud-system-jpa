@@ -36,8 +36,8 @@ El proyecto se gesta con la idea de proporcionar no solo una solución funcional
 <!-- Diagrama de Clases Refinado -->
 <h3>Diagrama de Clases Refinado:</h3>
 <div align="center">
-  <a href="">
-    <img src=""/></a>
+  <a href="https://github.com/GervasioMatteoda/java-crud-system-jpa/blob/master/diagrama-clases-refinado.drawio.png">
+    <img src="https://github.com/GervasioMatteoda/java-crud-system-jpa/blob/master/diagrama-clases-refinado.drawio.png"/></a>
 </div>
 <!-- -->
 
